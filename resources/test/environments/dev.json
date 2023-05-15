@@ -10,7 +10,7 @@
 		},
 		{
 			"key": "user",
-			"value": "refplatform",
+			"value": "refuser",
 			"type": "default",
 			"enabled": true
 		},
