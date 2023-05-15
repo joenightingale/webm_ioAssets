@@ -70,13 +70,13 @@
 		},
 		{
 			"key": "project",
-			"value": "wmio_project_d",
+			"value": "webm_ioAssets",
 			"type": "default",
 			"enabled": true
 		},
 		{
 			"key": "Request1.workflowid",
-			"value": "YGXd9eRR2",
+			"value": "oPxMyUrRR",
 			"type": "default",
 			"enabled": true
 		}
